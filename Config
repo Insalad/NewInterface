@@ -1,0 +1,19 @@
+{
+  "version": "3.1",
+  "status": {
+    "value": "detected",
+    "description": "For your safety, never use salad on your main roblox account, always use alternate accounts."
+  },
+  "roblox-version": {
+    "value": "version-2a06298afe3947ab",
+    "description": "This is the current roblox version supported by salad."
+  },
+  "discord-server": {
+    "value": "https://discord.gg/nNG8MeAyEE",
+    "description": "Join our official discord server to stay updated with changelogs and connect with the community."
+  },
+  "buy-lifetime": {
+    "value": "https://saladlol.mysellauth.com/",
+    "description": "Tired of renewing your key every 24 hours? Get a lifetime key for just $20 and enjoy uninterrupted access."
+  }
+}
