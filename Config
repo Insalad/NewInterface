@@ -8,6 +8,10 @@
     "value": "version-2a06298afe3947ab",
     "description": "This is the current roblox version supported by salad."
   },
+  "update-status": {
+    "value": "Updated",
+    "description": "Salad is currently up!"
+  },
   "discord-server": {
     "value": "https://discord.gg/nNG8MeAyEE",
     "description": "Join our official discord server to stay updated with changelogs and connect with the community."
