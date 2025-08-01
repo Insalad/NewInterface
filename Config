@@ -10,7 +10,7 @@
   },
   "update-status": {
     "value": "Outdated",
-    "description": "Salad is currently not operational"
+    "description": "Salad is currently not operational."
   },
   "discord-server": {
     "value": "https://discord.gg/nNG8MeAyEE",
