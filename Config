@@ -9,7 +9,7 @@
     "description": "This is the current roblox version supported by salad. Compatibility verified and tested."
   },
   "update-status": {
-    "value": "Updated",
+    "value": "Outdated",
     "description": "Salad is online and fully operational! Running the latest build with improved performance and stability."
   },
   "discord-server": {
