@@ -10,7 +10,7 @@
   },
   "update-status": {
     "value": "Outdated",
-    "description": "Salad is online and fully operational! Running the latest build with improved performance and stability."
+    "description": "Salad is currently not operational"
   },
   "discord-server": {
     "value": "https://discord.gg/nNG8MeAyEE",
