@@ -1,1 +1,36 @@
-
+{
+  "credits": [
+    {
+      "social": "discord",
+      "user": "insaladarel",
+      "link": "https://discord.com/users/1146168300150214716",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/salad_c.png",
+      "roles": ["Owner", "Developer"],
+      "responsibilities": ["Module", "UI", "Auth", "Bootstrapper", "Discord BOT"]
+    },
+    {
+      "social": "discord",
+      "user": ".iusethis",
+      "link": "https://discord.com/users/942886255534952498",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/iusethis_c.png",
+      "roles": ["Developer"],
+      "responsibilities": ["Module"]
+    },
+    {
+      "social": "discord",
+      "user": "cvirtualtable",
+      "link": "https://discord.com/users/1235764294310821968",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/vtable_c.png",
+      "roles": ["Developer"],
+      "responsibilities": ["Injector"]
+    },
+    {
+      "social": "instagram",
+      "user": "pwek",
+      "link": "https://www.instagram.com/pwek__?igsh=MXZjbTBvdjh6c2E4Mg==",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/logo%20parte%202-1.png",
+      "roles": ["Contributor"],
+      "responsibilities": ["Icon designer"]
+    }
+  ]
+}
