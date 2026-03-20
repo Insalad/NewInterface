@@ -4,23 +4,15 @@
       "social": "discord",
       "user": "insaladarel",
       "link": "https://discord.com/users/1146168300150214716",
-      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/salad_c.png",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/1720eee9e980eadbd7f2aa9942c6acdb.webp",
       "roles": ["Owner", "Developer"],
       "responsibilities": ["Module", "UI", "Auth", "Installer", "Launcher", "Website", "Discord BOT"]
     },
     {
       "social": "discord",
-      "user": ".iusethis",
-      "link": "https://discord.com/users/942886255534952498",
-      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/iusethis_c.png",
-      "roles": ["(Retired) Developer"],
-      "responsibilities": ["Module (Base)"]
-    },
-    {
-      "social": "discord",
-      "user": "cvirtualtable",
+      "user": "vtable",
       "link": "https://discord.com/users/1235764294310821968",
-      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/vtable_c.png",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/eebd1dd40e08ffd99ce8a8e7f38da04d.webp",
       "roles": ["Developer"],
       "responsibilities": ["Injector", "Module"]
     },
@@ -31,6 +23,14 @@
       "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/11.png",
       "roles": ["Contributor"],
       "responsibilities": ["Icon designer"]
+    },
+    {
+      "social": "discord",
+      "user": "fatass springs67",
+      "link": "https://discord.com/users/1329915891814760533",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/eebd1dd40e08ffd99ce8a8e7f38da04d.webp",
+      "roles": ["Developer"],
+      "responsibilities": ["He hasn't done absolutely anything, adding him because lol", "Also, he's fat."]
     }
   ]
 }
