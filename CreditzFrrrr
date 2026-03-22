@@ -34,6 +34,14 @@
     },
     {
       "social": "discord",
+      "user": "maxlasertech",
+      "link": "https://discord.com/users/691944570312851556",
+      "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/6ecc14198d098078e39e5c3a945e6f74.png",
+      "roles": ["Support", "Contributor, helped with:"],
+      "responsibilities": ["Monaco", "AI Training", "Suggestions]
+    },
+    {
+      "social": "discord",
       "user": "min",
       "link": "https://discord.com/users/981139386936754207",
       "avatar": "https://raw.githubusercontent.com/Insalad/NewInterface/refs/heads/main/ca45acca8cf03d33d3c8eb1c63943b5e.webp",
